@@ -1,7 +1,7 @@
-package com.scl.thread.creatmethod;
+package main.java.com.scl.thread.creatmethod;
 
-import com.scl.thread.creatmethod.runnable.MyThread02;
-import com.scl.thread.creatmethod.thread.MyThread01;
+import main.java.com.scl.thread.creatmethod.runnable.MyThread02;
+import main.java.com.scl.thread.creatmethod.thread.MyThread01;
 
 /**
  * @description: 新建线程的三种方式

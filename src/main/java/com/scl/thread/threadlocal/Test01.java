@@ -1,4 +1,4 @@
-package com.scl.thread.threadlocal;
+package main.java.com.scl.thread.threadlocal;
 
 /**
  * @description: ThreadLocal的基本使用  ThreadLocal主要为每个线程绑定自己的值

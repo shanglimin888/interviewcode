@@ -1,4 +1,4 @@
-package com.scl.thread.producerdata;
+package main.java.com.scl.thread.producerdata;
 
 /**
  * @description: 模拟多生产多消费的场景

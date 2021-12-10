@@ -1,4 +1,4 @@
-package com.scl.blockqueue;
+package main.java.com.scl.blockqueue;
 
 import java.sql.Time;
 import java.util.Queue;

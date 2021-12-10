@@ -1,4 +1,4 @@
-package com.scl.thread.threadgroup;
+package main.java.com.scl.thread.threadgroup;
 
 import com.sun.org.glassfish.gmbal.Description;
 

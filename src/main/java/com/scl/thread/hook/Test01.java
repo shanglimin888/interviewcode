@@ -1,4 +1,4 @@
-package com.scl.thread.hook;
+package main.java.com.scl.thread.hook;
 
 import java.io.IOException;
 import java.nio.file.Path;

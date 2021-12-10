@@ -1,4 +1,4 @@
-package com.scl.thread.threadmethods.p2isAlive;
+package main.java.com.scl.thread.threadmethods.p2isAlive;
 
 /**
  * @description:

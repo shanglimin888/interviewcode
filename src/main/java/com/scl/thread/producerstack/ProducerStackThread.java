@@ -1,4 +1,4 @@
-package com.scl.thread.producerstack;
+package main.java.com.scl.thread.producerstack;
 
 /**
  * @description: 提供者调用栈的pop方法

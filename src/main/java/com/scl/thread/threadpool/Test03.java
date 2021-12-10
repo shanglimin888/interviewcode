@@ -1,4 +1,4 @@
-package com.scl.thread.threadpool;
+package main.java.com.scl.thread.threadpool;
 
 import java.util.Random;
 import java.util.concurrent.LinkedBlockingDeque;

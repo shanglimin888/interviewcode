@@ -1,6 +1,6 @@
-package com.scl.juc;
+package main.java.com.scl.juc;
 
-import com.scl.enumpac.SeaSon;
+import main.java.com.scl.enumpac.SeaSon;
 
 import java.util.concurrent.BrokenBarrierException;
 import java.util.concurrent.CyclicBarrier;

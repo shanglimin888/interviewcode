@@ -1,4 +1,4 @@
-package com.scl.juc;
+package main.java.com.scl.juc;
 
 import java.util.ArrayList;
 import java.util.List;

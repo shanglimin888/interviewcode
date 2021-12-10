@@ -1,4 +1,4 @@
-package com.scl.thread.wait;
+package main.java.com.scl.thread.wait;
 
 /**
  * @description: 通过notify()唤醒等待的线程

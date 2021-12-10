@@ -1,4 +1,4 @@
-package com.scl.thread.threadgroup;
+package main.java.com.scl.thread.threadgroup;
 
 /**
  * @description: 新建线程组

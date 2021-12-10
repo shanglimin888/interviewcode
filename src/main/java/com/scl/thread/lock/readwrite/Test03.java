@@ -1,4 +1,4 @@
-package com.scl.thread.lock.readwrite;
+package main.java.com.scl.thread.lock.readwrite;
 
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReadWriteLock;

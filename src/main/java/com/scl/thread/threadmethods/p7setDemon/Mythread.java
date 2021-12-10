@@ -11,4 +11,5 @@ public class Mythread extends Thread {
         for (;;) {
             System.out.println("sum thread");
         }
-  
+    }
+}    

@@ -1,4 +1,4 @@
-package com.scl.thread.wait;
+package main.java.com.scl.thread.wait;
 
 /**
  * @description:

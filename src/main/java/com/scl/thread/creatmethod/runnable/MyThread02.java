@@ -1,4 +1,4 @@
-package com.scl.thread.creatmethod.runnable;
+package main.java.com.scl.thread.creatmethod.runnable;
 
 /**
  * @description:

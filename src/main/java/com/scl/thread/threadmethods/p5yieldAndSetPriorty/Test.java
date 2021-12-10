@@ -1,4 +1,4 @@
-package com.scl.thread.threadmethods.p5yieldAndSetPriorty;
+package main.java.com.scl.thread.threadmethods.p5yieldAndSetPriorty;
 
 /**
  * @description:  thread.setPrioty(1-10) 表示给线程设置优先级，类似于使争夺时间片的概率变大

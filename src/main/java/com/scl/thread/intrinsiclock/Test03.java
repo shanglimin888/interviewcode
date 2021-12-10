@@ -1,4 +1,4 @@
-package com.scl.thread.intrinsiclock;
+package main.java.com.scl.thread.intrinsiclock;
 
 /**
  * @description:

@@ -1,4 +1,4 @@
-package com.scl.thread.threadmethods.p6interrupt;
+package main.java.com.scl.thread.threadmethods.p6interrupt;
 
 /**
  * @description:

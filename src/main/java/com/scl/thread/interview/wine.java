@@ -1,4 +1,4 @@
-package com.scl.thread.interview;
+package main.java.com.scl.thread.interview;
 
 /**
  * @description:

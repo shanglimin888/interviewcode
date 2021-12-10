@@ -16,4 +16,5 @@ public class Test09 {
         protected Long compute() {
             return 0L;
         }
-  
+    }
+}    

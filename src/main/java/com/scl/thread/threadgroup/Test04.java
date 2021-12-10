@@ -1,4 +1,4 @@
-package com.scl.thread.threadgroup;
+package main.java.com.scl.thread.threadgroup;
 
 /**
  * @description: 线程组的批量中断 中断线程组会中断线程组中所有的线程

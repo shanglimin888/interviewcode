@@ -1,4 +1,4 @@
-package com.scl.thread.threadlocal;
+package main.java.com.scl.thread.threadlocal;
 
 import java.util.Date;
 import java.util.Random;

@@ -1,4 +1,4 @@
-package com.scl.thread.threadlocal;
+package main.java.com.scl.thread.threadlocal;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

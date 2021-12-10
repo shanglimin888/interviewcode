@@ -1,4 +1,4 @@
-package com.scl.thread.threadmethods.p7setDemon;
+package main.java.com.scl.thread.threadmethods.p7setDemon;
 
 /**
  * @description: 线程分为两种，一种是用户线程，一种是守护线程，守护线程不能单独运行  setDaemon设置为守护线程

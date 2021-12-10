@@ -1,4 +1,4 @@
-package com.scl.thread.threadmethods.p3sleep;
+package main.java.com.scl.thread.threadmethods.p3sleep;
 
 /**
  * @description: 线程的静态方法 sleep 休眠

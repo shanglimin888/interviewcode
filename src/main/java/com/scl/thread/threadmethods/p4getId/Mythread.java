@@ -10,3 +10,5 @@ public class Mythread extends Thread {
     public void run() {
 
         System.out.println("获取一下线程的id是"+Thread.currentThread().getId());
+    }
+}

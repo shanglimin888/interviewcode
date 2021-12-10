@@ -1,4 +1,4 @@
-package com.scl.thread.producerdata;
+package main.java.com.scl.thread.producerdata;
 
 /**
  * @description: 定义一个操作数据的类

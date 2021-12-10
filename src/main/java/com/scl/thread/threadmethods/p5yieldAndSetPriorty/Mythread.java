@@ -1,4 +1,4 @@
-package com.scl.thread.threadmethods.p5yieldAndSetPriorty;
+package main.java.com.scl.thread.threadmethods.p5yieldAndSetPriorty;
 
 /**
  * @description: Thread.yield()线程的静态方法，表示放弃cpu争夺资源

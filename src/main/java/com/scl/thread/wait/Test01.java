@@ -1,4 +1,4 @@
-package com.scl.thread.wait;
+package main.java.com.scl.thread.wait;
 
 /**
  * @description: wait() 和 notify() 需要放在同步代码块中

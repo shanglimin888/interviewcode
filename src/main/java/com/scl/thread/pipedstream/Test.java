@@ -1,4 +1,4 @@
-package com.scl.thread.pipedstream;
+package main.java.com.scl.thread.pipedstream;
 
 /**
  * @description: 使用pipedInputStream 和 pipedOutputstream 在线程间传输数据

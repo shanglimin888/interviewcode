@@ -1,4 +1,4 @@
-package com.scl.thread.producerstack;
+package main.java.com.scl.thread.producerstack;
 
 /**
  * @description: 模拟 单提供者多消费者 共享栈

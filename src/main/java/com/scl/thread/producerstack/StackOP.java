@@ -1,4 +1,4 @@
-package com.scl.thread.producerstack;
+package main.java.com.scl.thread.producerstack;
 
 import java.util.ArrayList;
 import java.util.List;

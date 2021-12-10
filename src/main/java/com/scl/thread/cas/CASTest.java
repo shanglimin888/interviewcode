@@ -1,4 +1,4 @@
-package com.scl.thread.cas;
+package main.java.com.scl.thread.cas;
 
 /**
  * @description: 使用CAS算法实现线程安全的计数器

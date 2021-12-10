@@ -1,4 +1,4 @@
-package com.scl.collection;
+package main.java.com.scl.collection;
 
 import java.util.HashMap;
 

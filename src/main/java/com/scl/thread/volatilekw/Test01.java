@@ -1,4 +1,4 @@
-package com.scl.thread.volatilekw;
+package main.java.com.scl.thread.volatilekw;
 
 /**
  * @description: volatile保证 修饰的变量，能让所有参与的线程在公共内存中读取的到，而不是从工作内存中读取

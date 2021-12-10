@@ -1,4 +1,4 @@
-package com.scl.thread.threadsafe;
+package main.java.com.scl.thread.threadsafe;
 
 import java.util.Random;
 

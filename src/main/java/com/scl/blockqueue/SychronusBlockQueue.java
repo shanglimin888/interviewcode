@@ -1,4 +1,4 @@
-package com.scl.blockqueue;
+package main.java.com.scl.blockqueue;
 
 import jdk.nashorn.internal.ir.Block;
 

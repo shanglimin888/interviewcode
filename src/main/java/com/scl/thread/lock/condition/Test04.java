@@ -1,4 +1,4 @@
-package com.scl.thread.lock.condition;
+package main.java.com.scl.thread.lock.condition;
 
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.ReentrantLock;

@@ -1,4 +1,4 @@
-package com.scl.thread.lock.method;
+package main.java.com.scl.thread.lock.method;
 
 import java.util.concurrent.locks.ReentrantLock;
 

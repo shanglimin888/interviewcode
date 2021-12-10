@@ -1,4 +1,4 @@
-package com.scl.thread.threadmethods.p1CurrentThreadAndGetSetName;
+package main.java.com.scl.thread.threadmethods.p1CurrentThreadAndGetSetName;
 
 /**
  * @description:

@@ -1,4 +1,4 @@
-package com.scl.thread.threadmethods.p6interrupt;
+package main.java.com.scl.thread.threadmethods.p6interrupt;
 
 /**
  * @description: 线程的方法 interrupt 和 isInterrupt  可以打断线程的执行

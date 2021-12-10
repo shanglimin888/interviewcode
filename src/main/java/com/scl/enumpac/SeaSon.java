@@ -1,4 +1,4 @@
-package com.scl.enumpac;
+package main.java.com.scl.enumpac;
 
 /**
  * @description:

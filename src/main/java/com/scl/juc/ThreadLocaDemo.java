@@ -1,4 +1,4 @@
-package com.scl.juc;
+package main.java.com.scl.juc;
 
 public class ThreadLocaDemo {
  

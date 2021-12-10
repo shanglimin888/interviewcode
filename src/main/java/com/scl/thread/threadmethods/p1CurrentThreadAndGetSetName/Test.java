@@ -1,4 +1,4 @@
-package com.scl.thread.threadmethods.p1CurrentThreadAndGetSetName;
+package main.java.com.scl.thread.threadmethods.p1CurrentThreadAndGetSetName;
 
 /**
  * @description:  线程的静态方法 Thread.CurrentThread ： 获取当前线程

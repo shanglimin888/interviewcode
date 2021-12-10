@@ -1,4 +1,4 @@
-package com.scl.thread.threadmethods.p4getId;
+package main.java.com.scl.thread.threadmethods.p4getId;
 
 /**
  * @description: 每一个线程都有一个id,通过getId方法获取id

@@ -1,4 +1,4 @@
-package com.scl.thread.volatilekw;
+package main.java.com.scl.thread.volatilekw;
 
 import java.util.concurrent.atomic.AtomicInteger;
 

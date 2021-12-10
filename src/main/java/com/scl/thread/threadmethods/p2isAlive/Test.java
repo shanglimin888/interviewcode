@@ -1,4 +1,4 @@
-package com.scl.thread.threadmethods.p2isAlive;
+package main.java.com.scl.thread.threadmethods.p2isAlive;
 
 /**
  * @description: 线程的普通方法：t.isAlive（）判断线程是否处于活动状态

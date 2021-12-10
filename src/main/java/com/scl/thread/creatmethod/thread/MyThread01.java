@@ -1,4 +1,4 @@
-package com.scl.thread.creatmethod.thread;
+package main.java.com.scl.thread.creatmethod.thread;
 
 /**
  * @description:

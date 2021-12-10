@@ -1,4 +1,4 @@
-package com.scl.thread.atomiclong;
+package main.java.com.scl.thread.atomiclong;
 
 /**
  * @description: 模拟服务器请求总数处理成功数和失败数

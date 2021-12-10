@@ -1,4 +1,4 @@
-package com.scl.thread.threadexception;
+package main.java.com.scl.thread.threadexception;
 
 /**
  * @description: 演示设置线程的unCatchExceptionHandler 回调接口

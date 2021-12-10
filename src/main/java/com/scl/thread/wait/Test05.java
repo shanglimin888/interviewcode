@@ -1,4 +1,4 @@
-package com.scl.thread.wait;
+package main.java.com.scl.thread.wait;
 
 /**
  * @description: interrupt 会中断wait()方法，会抛异常 interruptException

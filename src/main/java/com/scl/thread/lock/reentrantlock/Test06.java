@@ -1,4 +1,4 @@
-package com.scl.thread.lock.reentrantlock;
+package main.java.com.scl.thread.lock.reentrantlock;
 
 import java.util.Random;
 import java.util.concurrent.locks.ReentrantLock;

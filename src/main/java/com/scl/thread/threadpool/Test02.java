@@ -1,4 +1,4 @@
-package com.scl.thread.threadpool;
+package main.java.com.scl.thread.threadpool;
 
 import java.util.concurrent.Executors;
 import java.util.concurrent.ScheduledExecutorService;

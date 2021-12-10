@@ -1,4 +1,4 @@
-package com.scl.thread.intrinsiclock;
+package main.java.com.scl.thread.intrinsiclock;
 
 /**
  * @description: 同步代码块 锁对象 使用常量作为锁对象
