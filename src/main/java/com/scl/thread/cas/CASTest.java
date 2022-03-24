@@ -1,5 +1,8 @@
+<<<<<<< HEAD:src/com/scl/thread/juc/cas/CASTest.java
 package com.scl.thread.juc.cas;
-
+=======
+package main.java.com.scl.thread.cas;
+>>>>>>> fd0d4cba6b0317822c8d2be9ad8fa8f85734e257:src/main/java/com/scl/thread/cas/CASTest.java
 
 /**
  * @description: 使用CAS算法实现线程安全的计数器
