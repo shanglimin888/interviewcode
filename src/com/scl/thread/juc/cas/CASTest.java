@@ -1,4 +1,4 @@
-package com.scl.thread.cas;
+package com.scl.thread.juc.cas;
 
 /**
  * @description: 使用CAS算法实现线程安全的计数器
